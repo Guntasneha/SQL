@@ -1,4 +1,4 @@
-DAY-2 SQL
+DAY-3 SQL
 
 mysql> CREATE DATABASE PFS6;
 Query OK, 1 row affected (0.01 sec)
